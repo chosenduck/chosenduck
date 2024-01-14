@@ -25,6 +25,8 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> </a> 
+<a href="https://powerbi.microsoft.com/pt-br/desktop/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=3sGOUDo9nJ4k&format=png" alt="PowerBI" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=117561&format=png" alt="Excel" width="40" height="40"/> </a> 
 
 
 
