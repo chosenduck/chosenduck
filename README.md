@@ -28,14 +28,15 @@
 <a href="https://powerbi.microsoft.com/pt-br/desktop/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=3sGOUDo9nJ4k&format=png" alt="PowerBI" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=117561&format=png" alt="Excel" width="40" height="40"/> </a> 
 
-
-
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chosenduck&show_icons=true&locale=en&layout=compact" alt="chosenduck" /></p>
 
-
-
+## Portfólio
+ 
+### PowerBI
+---
+* [Projeto Dengue no Brasil (2014-2024)](https://app.powerbi.com/reportEmbed?reportId=1fcd8c8c-68b8-4dd8-81c1-e25cbb98ff3c&autoAuth=true&ctid=64126139-4352-4cd7-b1fb-2a971c6f69a6)
 
 <!---
 - 👋 Hi, I’m @chosenduck
