@@ -27,10 +27,7 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> </a> 
 <a href="https://powerbi.microsoft.com/pt-br/desktop/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=3sGOUDo9nJ4k&format=png" alt="PowerBI" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=117561&format=png" alt="Excel" width="40" height="40"/> </a> 
-
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chosenduck&show_icons=true&locale=en&layout=compact" alt="chosenduck" /></p>
 
 ## Portfólio
  
