@@ -1,9 +1,7 @@
 <h1 align="center">Olá 👋, eu me chamo João Victor Vaz</h1>
 <h3 align="center">Apaixonado por políticas públicas e análise de dados</h3>
 
-- 🔭Sou graduando em Ciências Sociais pela Universidade Federal de Minas Gerais. Fui auxiliar temporário na Opus Consultoria e Pesquisa, bolsista voluntário no grupo de pesquisa MARGEM e bolsista de iniciação científica no projeto PEA-PESCARTE. Fui estagiário em análise de dados e análise de redes no Painel Brasileiro da Obesidade, do Instituto Cordial e atualmente sou técnico de dados da Secretaria de Cultura e Turismo de Minas Gerais (SECULT-MG).
-
-- 🌱 Atualmente estou estudando **R, Python, PowerBI**
+- 🔭Sou formado em Ciências Sociais pela Universidade Federal de Minas Gerais. Fui auxiliar temporário na Opus Consultoria e Pesquisa, bolsista voluntário no grupo de pesquisa MARGEM e bolsista de iniciação científica no projeto PEA-PESCARTE. Também atuei como estagiário em análise de dados e análise de redes no Painel Brasileiro da Obesidade, do Instituto Cordial, como técnico de dados da Secretaria de Cultura e Turismo de Minas Gerais (SECULT-MG) e atualmente sou assessor técnico do Núcleo de Estatística da Ouvidoria Geral do Estado de Minas Gerais.
 
 - 💬 Me pergunte sobre **Excel, R, Python, PowerBI**
 
