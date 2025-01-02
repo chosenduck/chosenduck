@@ -31,7 +31,7 @@
  
 ### PowerBI
 ---
-* [Projeto Dengue no Brasil (2014-2024)](https://app.powerbi.com/reportEmbed?reportId=1fcd8c8c-68b8-4dd8-81c1-e25cbb98ff3c&autoAuth=true&ctid=64126139-4352-4cd7-b1fb-2a971c6f69a6)
+* [Projeto Dengue no Brasil (2014-2024)](https://drive.google.com/file/d/1OtBJ1FfstxcFJZUkgfQ5MspRFg1ufEyY/view?usp=sharing)
 
 <!---
 - 👋 Hi, I’m @chosenduck
