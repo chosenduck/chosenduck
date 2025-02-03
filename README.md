@@ -32,6 +32,9 @@
 ### PowerBI
 ---
 * [Projeto Dengue no Brasil (2014-2024)](https://drive.google.com/file/d/1OtBJ1FfstxcFJZUkgfQ5MspRFg1ufEyY/view?usp=sharing)
+---
+### Flourish
+* [IATUR - Índice de Atividades Turísticas (2011-2024)](https://public.flourish.studio/story/2867786/)
 
 <!---
 - 👋 Hi, I’m @chosenduck
