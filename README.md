@@ -3,8 +3,6 @@
 
 - 🔭Sou formado em Ciências Sociais pela Universidade Federal de Minas Gerais. Fui auxiliar temporário na Opus Consultoria e Pesquisa, bolsista voluntário no grupo de pesquisa MARGEM e bolsista de iniciação científica no projeto PEA-PESCARTE. Também atuei como estagiário em análise de dados e análise de redes no Painel Brasileiro da Obesidade, do Instituto Cordial, como técnico de dados da Secretaria de Cultura e Turismo de Minas Gerais (SECULT-MG) e atualmente sou assessor técnico do Núcleo de Estatística da Ouvidoria Geral do Estado de Minas Gerais.
 
-- 💬 Me pergunte sobre **Excel, R, Python, PowerBI**
-
 - 📫 Você pode me encontrar em **jvictorvazzz@gmail.com**
 
 - 📄 Minhas experiências profissionais [www.linkedin.com/in/jvfqvaz](www.linkedin.com/in/jvfqvaz)
@@ -17,14 +15,16 @@
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="RStudio" width="40" height="40"/> </a>
-<a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> </a> 
-<a href="https://powerbi.microsoft.com/pt-br/desktop/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=3sGOUDo9nJ4k&format=png" alt="PowerBI" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=117561&format=png" alt="Excel" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="RStudio" width="40" height="40"/></a>
+<a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio" width="40" height="40"/></a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> 
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></a> 
+<a href="https://powerbi.microsoft.com/pt-br/desktop/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=3sGOUDo9nJ4k&format=png" alt="PowerBI" width="40" height="40"/></a> 
+<a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=117561&format=png" alt="Excel" width="40" height="40"/></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
+</a>
 </p>
 
 ## Portfólio
