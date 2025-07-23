@@ -35,7 +35,7 @@
 ---
 ### Flourish
 * [IATUR - Índice de Atividades Turísticas (2011-2024)](https://public.flourish.studio/story/2867786/)
-* [SEJUSP/MG - Análise de Crimes Violentos em BH e MG (2012 a 2025)](https://www.canva.com/design/DAGt0ZeJIWc/DDPNT5nyVtum2REjHlL_OQ/edit?utm_content=DAGt0ZeJIWc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* [SEJUSP/MG - Análise de Crimes Violentos em BH e MG (2012 a 2025)](https://www.canva.com/design/DAGt0ZeJIWc/HYvg9ZBBWQNW_TyAv4z_mg/view?utm_content=DAGt0ZeJIWc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd3bd1646d3)
 
 <!---
 - 👋 Hi, I’m @chosenduck
