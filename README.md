@@ -5,7 +5,7 @@
 
 - 📫 Você pode me encontrar em **jvictorvazzz@gmail.com**
 
-- 📄 Minhas experiências profissionais [www.linkedin.com/in/jvfqvaz](www.linkedin.com/in/jvfqvaz)
+- 📄 Minhas experiências profissionais [**www.linkedin.com/in/jvfqvaz**](www.linkedin.com/in/jvfqvaz)
 
 <h3 align="left"> Conecte-se comigo:</h3>
 <p align="left">
