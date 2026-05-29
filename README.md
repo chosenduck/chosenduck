@@ -30,7 +30,7 @@
 
 ## Portfólio
 ### Streamlit
-* [O Brasil gasta bem em saúde?(GHE/WHO: 2000 - 2023)](https://ghe-brazil-2000-2023.streamlit.app/)
+* [O Brasil gasta bem em saúde?](https://ghe-brazil-2000-2023.streamlit.app/)
 ---
 ### PowerBI
 * [Projeto Dengue no Brasil (2014-2024)](https://drive.google.com/file/d/1OtBJ1FfstxcFJZUkgfQ5MspRFg1ufEyY/view?usp=sharing)
